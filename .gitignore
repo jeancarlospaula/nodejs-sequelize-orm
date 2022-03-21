@@ -1,0 +1,5 @@
+node_modules
+.sequelizerc
+.tool-versions
+CREATE
+api/config
