@@ -1,1 +1,1 @@
-Course project with NodeJS and Sequelize
+# Course project with NodeJS and Sequelize
